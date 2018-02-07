@@ -32,6 +32,14 @@ A Polymer element providing a [simple slider](http://ruyadorno.github.io/SimpleS
  > [Check more examples](http://ruyadorno.github.io/polymer-simple-slider).
 
 
+# Running the example
+
+This example is intended to show users how to consume the polymer-simple-slider element.
+
+Steps:
+
+- `polymer serve` Starts a test server on http://127.0.0.1:8081/components/polymer-simple-slider/examples
+
 ## Usage
 
 1. Install using Bower (also available on npm)
